@@ -46,7 +46,17 @@ Edit
 1. Navigate to the `backend` folder:
    ```bash
    cd backend
-Run the Spring Boot
+Run the Spring Boot app:
 
- output
- 
+bash
+Copy
+Edit
+mvn spring-boot:run
+Verify it's running at:
+
+
+
+output:
+UI![alt text](Task3.PNG)
+
+
